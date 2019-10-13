@@ -7,3 +7,6 @@ Una vez en la carpeta debes dar permisos al programa.
    chmod +x MetaMan.sh
 A continuación ejecutamos el comando.
    ./MetaMan.sh
+# ¿Que tal un café?
+Si te gustan mis Scripts, puedes invitarme a un café para animarme a aseguir publicando más.
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EERJ8BWALEMUG&source=url
