@@ -1,4 +1,4 @@
-# MetaMan
+# MetaMan 
 Script/Programa de gestión, extracción, modificación y eliminación de metadatos o meta-información de cualquier archivo. OffShell System Software.
 # Instrucciones de uso.
 ¡¡¡IMPORTANTE: Se debe ejecutar el programa como root o como usuario con sudo.!!!
