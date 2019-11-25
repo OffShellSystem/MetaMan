@@ -7,7 +7,7 @@ Una vez en la carpeta debes dar permisos al programa.
    chmod +x MetaMan.sh
 A continuación ejecutamos el comando.
    ./MetaMan.sh
-# ShellDredd - OffShell SYstem
+# ShellDredd - OffShell System
 http://www.shelldredd.tk/
 # ¿Que tal un café?
 Si te gustan mis Scripts, puedes invitarme a un café para animarme a seguir publicando más.
